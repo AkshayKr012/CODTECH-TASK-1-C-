@@ -1,4 +1,4 @@
-# CODTECH-TASK-1-C-
+# CODTECH-TASK-1-C++
 
 Name : Akshay kumar
 company : Codtech it solutions
